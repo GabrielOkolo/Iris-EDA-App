@@ -31,11 +31,5 @@ streamlit run app.py
 #### Show and Hide Image
 ![](screenshots/home3.png)
 
-#### With Description of App
-![](screenshots/iris_eda_desc.png)
-
-##### NB About Changes
-+ app.py :from tutorial video
-+ iris_app.py :restructured
 
 
