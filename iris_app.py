@@ -1,8 +1,6 @@
 """
 ## App: Iris EDA App
-Author: [Jesse E.Agbe(JCharis)](https://github.com/Jcharis))\n
-Source: [Github](https://github.com/Jcharis/Machine-Learning-Web-Apps/tree/master/Iris_EDA_Web_App)
-Credits: Streamlit Team,Marc Skov Madsen(For Awesome-streamlit gallery)
+
 
 Description
 This is a simple Exploratory Data Analysis of the Iris Dataset depicting the various 
@@ -150,15 +148,7 @@ def main():
     	st.image(enh.enhance(num),width=img_width)
 
 
-    # About
-    if st.button("About App"):
-    	st.subheader("Iris Dataset EDA App")
-    	st.text("Built with Streamlit")
-    	st.text("Thanks to the Streamlit Team Amazing Work")
 
-    if st.checkbox("By"):
-    	st.text("Jesse E.Agbe(JCharis)")
-    	st.text("Jesus Saves@JCharisTech")
 
 
 if __name__ == "__main__":
